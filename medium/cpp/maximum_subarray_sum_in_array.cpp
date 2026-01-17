@@ -20,7 +20,8 @@ public:
             {
                 start = i;
             }
-            sum += nums[i];            if (sum > maxSum)
+            sum += nums[i];   
+            if (sum > maxSum){
             {
                 maxSum = sum;
                 end = i;
