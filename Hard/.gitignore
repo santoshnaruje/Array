@@ -12,7 +12,6 @@ out/
 *.out
 *.app
 3_Sum*__Find_triplets_that_add_up_to_a_zero
-4_sum_problem
 
 # CMake generated files
 CMakeCache.txt
@@ -20,7 +19,6 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 *.cmake
-!CMakeLists.txt
 
 # IDE specific files
 .idea/
